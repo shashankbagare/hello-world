@@ -2,24 +2,19 @@
 
 It should be better than what it is now
 
-### Markdown
+### A lot to write and display in the future
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
+# TV Shows
+## English
 ### Header 3
 
-- Bulleted
-- List
+- GOT
+- Narcos
+- Breaking Bad
+- House of Cards
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 
 
